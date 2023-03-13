@@ -1,3 +1,0 @@
-INDEX VERSION 1.131+C:\Users\User\OneDrive\Documentos\hello word sts\.metadata\.plugins\org.eclipse.jdt.core
-54703828.index
-954003869.index
